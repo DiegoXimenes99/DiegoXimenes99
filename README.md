@@ -45,7 +45,6 @@ Gosto principalmente da parte de **lógica, backend, banco de dados e integraç�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
----
 
 ## 🚀 Projetos
 
