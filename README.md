@@ -1,66 +1,14 @@
-# 👋 Olá, eu sou o Diego!
+# 👋 Opa, eu sou o Diego!
 
 ### 💻 Desenvolvedor em formação | 🎓 Análise e Desenvolvimento de Sistemas
 
-Gosto de transformar ideias em projetos funcionais e entender como as diferentes partes de um sistema se conectam.
+Atualmente estudo Análise e Desenvolvimento de Sistemas e uso meus projetos pessoais e da faculdade para praticar programação e aprender coisas novas.
 
-Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** e desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-* 💻 Desenvolvedor em formação
-* 🧠 Interesse principalmente em **lógica de programação e desenvolvimento**
-* 🗄️ Experiência prática com **bancos de dados**
-* ⚙️ Desenvolvimento de **automações e integrações**
-* 🎮 Desenvolvimento de projetos para **FiveM**
-* 📚 Sempre buscando aprender e melhorar meus projetos
+Gosto principalmente da parte de **lógica, backend, banco de dados e integração entre sistemas**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Linguagens
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🌐 Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-
-### 🔧 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoXimenes99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoXimenes99&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Contribuições
+## 📊 Minhas contribuições
 
 <div align="center">
 
@@ -70,63 +18,87 @@ Atualmente estou estudando **Análise e Desenvolvimento de Sistemas** e desenvol
 
 ---
 
-## 🔥 Projetos
+## 🛠️ Tecnologias
 
-### 🎮 Desenvolvimento para FiveM
+### Linguagens
 
-Um dos projetos que mais contribuiu para minha evolução como desenvolvedor.
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-Durante o desenvolvimento trabalhei com:
+### Web
 
-* Scripts em **Lua**
-* Interfaces **NUI**
-* **HTML, CSS e JavaScript**
-* **Vue.js e React**
-* **MySQL e MariaDB**
-* Automações com **Python**
-* Integração com **APIs**
-* Git e GitHub
-* Gerenciamento de **VPS**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
 
-O projeto também envolveu criação de sistemas, manutenção de código existente, integração entre interface e banco de dados, correção de bugs e organização de um projeto em crescimento.
+### Banco de dados
 
-### 🐍 Automações com Python
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 
-Também desenvolvo ferramentas e automações utilizando Python, incluindo integrações com APIs, Discord, GitHub, bancos de dados e tarefas relacionadas ao gerenciamento de projetos.
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoXimenes99&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoXimenes99&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Projetos
+
+### 🎮 FiveM
+
+Um dos projetos que mais me fez colocar programação em prática.
+
+Trabalhei durante vários meses com **Lua, JavaScript, HTML, CSS, Vue.js, React, MySQL/MariaDB e Python**, além de APIs, Git e VPS.
+
+Nesse projeto acabei mexendo em bastante coisa: sistemas, interfaces, banco de dados, automações, correção de bugs e código que já existia.
+
+Foi também onde comecei a entender melhor como organizar um projeto que vai crescendo e ficando cada vez maior.
+
+### 🐍 Python
+
+Também tenho alguns projetos e ferramentas em Python, principalmente envolvendo **automações, APIs, Discord, GitHub e banco de dados**.
 
 ---
 
 ## 🎓 Estudos
 
-Atualmente cursando:
-
 **Análise e Desenvolvimento de Sistemas**
 
-Meu foco de estudo e desenvolvimento está principalmente em:
+Atualmente estudando e praticando principalmente:
 
-`Lógica` • `Backend` • `Banco de Dados` • `APIs` • `Automação` • `Desenvolvimento Web`
+`Lógica` • `Backend` • `SQL` • `APIs` • `Automação` • `Desenvolvimento Web`
 
 ---
 
 ## 📌 Atualmente
 
-```text
-🎓 Estudando ADS
-💻 Desenvolvendo projetos pessoais
-🐍 Aprimorando Python
-🗄️ Trabalhando com bancos de dados
-⚙️ Explorando desenvolvimento backend
-🚀 Construindo meu portfólio
-```
+* 🎓 Cursando ADS
+* 💻 Desenvolvendo projetos pessoais
+* 🐍 Estudando Python
+* 🗄️ Praticando banco de dados
+* ⚙️ Aprendendo mais sobre backend
+* 🚀 Montando meu portfólio
 
 ---
 
 <div align="center">
 
-### 💡 "Aprender fazendo."
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DiegoXimenes99\&color=blueviolet\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DiegoXimenes99\&style=for-the-badge)
 
 </div>
